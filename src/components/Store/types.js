@@ -1,0 +1,10 @@
+export const Register_User = 'Register_User'
+export const Sign_User = 'Sign_User'
+export const AutoSign_User = 'AutoSign_User'
+export const LogOut_User =  'LogOut_User'
+export const Delete_User_Post = 'Delete_User_Post'
+
+export const Get_Article = 'Get_Article'
+export const Post_Article = 'Post_Article'
+export const Reset_Article = 'Reset_Article'
+export const Get_User_Post = 'Get_User_Post'
